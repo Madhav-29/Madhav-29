@@ -4,7 +4,6 @@
 📍 Bradley University, IL | 1.5+ Years of Industry Experience | 📈 AWS Certified | Passionate about turning data into decisions
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/madhav-sai-avanigadda-7951391ba)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amadhavsai29@gmail.com)
 
 ---
 
