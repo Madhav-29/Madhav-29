@@ -1,74 +1,79 @@
-Hi there 👋
-👨‍💻 I am Vishnuvardhan Venkannagari | Software Engineer | AWS Certified Developer - Associate | 2+ Years of Experience
-LinkedIn GitHub Portfolio
+# 👋 Hi there, I'm Madhav Sai Avanigadda
 
-💼 About Me
-A motivated and experienced Software Engineer with 2+ years of expertise in designing, developing, and deploying scalable applications, integrating secure APIs, and leveraging cloud services like AWS and Azure. My background in full-stack development, data engineering, and automation using CI/CD pipelines has enabled me to deliver optimized solutions for major clients, including Amazon. Promoted for high-impact contributions and performance improvements, I bring value through collaboration and innovative problem-solving.
+🎓 Master's Student in Data Science & Business Analytics | 🧠 Data Analyst | 📊 Machine Learning Enthusiast  
+📍 Bradley University, IL | 1.5+ Years of Industry Experience | 📈 AWS Certified | Passionate about turning data into decisions
 
-🔧 Technical Skills:
-🛠️ Backend Development
-Languages: Python, JavaScript, SQL, HTML, CSS, YAML, JSON
-Frameworks: Flask, FastAPI, Django, Node.js (Express)
-Databases: MySQL, PostgreSQL, MongoDB, Firebase, Elasticsearch, Redis
-☁️ Cloud & DevOps
-AWS: Lambda, S3, ECS, EKS, IAM, RDS, API Gateway, Cognito
-Azure: AD B2C, Functions, Blob Storage
-Infrastructure as Code: Terraform
-CI/CD Tools: GitHub Actions, Jenkins, Docker, Kubernetes
-🖥️ Frontend Development
-Frameworks: React.js, Bootstrap, Angular
-UX/UI Optimization: HTML5, CSS3, Responsive Design
-🧪 Testing & Security
-Testing Tools: Pytest, Selenium, Unittest
-Vulnerability Assessments: OWASP, secure API integrations
-Code Quality & Review: Static code analysis and optimized database interactions
-🏢 Work Experience:
-Software Engineer | SOTAOG LLC - Houston, Texas, USA (Feb 2025 - May 2025)
-Designed and deployed AWS infrastructure using Terraform, configuring VPC, EC2, S3, IAM, Route Tables, and CloudWatch monitoring.
-Integrated AWS Cognito with CloudWatch for failed login monitoring and Lambda-based user deactivation, enhancing system security.
-Built FastAPI backend services secured with Nginx and SSL, supporting real-time execution of PARETO Operational and Strategic models.
-Developed an Angular-based frontend with Cognito login, role-based access control, and session management.
-Configured AWS SES for secured email services, applied CloudFront & WAF for IP whitelisting and web traffic protection.
-Software Engineer Intern | Treevah LLC - Chicago, Illinois, USA (Dec 2024 - Jan 2025)
-Built a React-based File Management System with AI-driven features and Azure B2C integration for secure authentication.
-Developed a backend using Node.js (Express) and PostgreSQL, following MVC for maintainability and scaling.
-Integrated Azure Blob Storage for secure, efficient file storage with lifecycle management and session-based access.
-Enhanced API performance and implemented robust file handling pipelines, improving response times and maintainability.
-Software Engineer | Hashinclude Computech Pvt Ltd - Bangalore, India (Nov 2021 - Dec 2022)
-Led development of Python applications using Flask and FastAPI, managing full project life cycles for ITP and SocialSwag platforms.
-Used AWS Lambda for serverless deployments, improving scalability by 30%.
-Built and integrated REST APIs for role-based access, streaming, and transactions using Elasticsearch, Redis, RabbitMQ.
-Collaborated on frontend components using React.js, and orchestrated CI/CD pipelines using GitHub Actions and Jenkins.
-Junior Software Engineer | RP Webapps Pvt Ltd - Hyderabad, India (April 2019 - Oct 2021)
-Built and documented backend services using Flask, FastAPI, and Pytest.
-Handled large datasets with pandas and optimized MySQL queries for real-time analytics.
-Scheduled cron jobs for daily automated API triggers and integrated cloud services for external clients.
-📜 Certifications & Achievements:
-AWS Certified Developer - Associate (Sept 2024)
-5-Day Gen AI Intensive, Kaggle (Nov 2024)
-Python & Django - Digital Nest Hyderabad (2021)
-🚀 Notable Projects:
-Vsystech ShopHub - Ongoing
-Comprehensive E-commerce Platform with key modules including user authentication, product catalogs, cart functionality, and secure payment processing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/madhav-sai-7951391ba)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amadhavsai29@gmail.com)
 
-🌟 KEY FEATURES DEVELOPED:
+---
 
-User Authentication: Integrated Firebase and Redis for secure and efficient user authentication.
-Profile Management: Users can create accounts, view profiles, and manage cart items seamlessly.
-Payment Gateway Integration: Connected with PayPal for secure transactions, storing payment and other critical data in MongoDB.
-Real-Time Communication: Implemented WebSockets to ensure smooth interaction between the frontend and backend, especially during payment processes.
-Schema Validation: Developed backend functionalities to validate and integrate data efficiently.
-Frontend Development: Designed a responsive and interactive UI using React, Redux, and WebSockets.
-Deployment: Hosted the application on AWS EC2 with NGINX as the web server and set up GitHub Actions for CI/CD to streamline deployments.
-🚀 COMING SOON:
+## 💼 About Me
 
-Order Management: Features to view and track orders in real-time.
-ML Integration: Implementing machine learning algorithms to analyze and suggest the most purchased items.
-This project has been an incredible learning experience, showcasing my skills in full-stack development, deployment, and integration.
+I'm a Data Analyst and graduate student with a strong foundation in data science, business analytics, and machine learning. With 1.5+ years of industry experience at Tamana Software, I’ve built interactive dashboards, optimized ETL pipelines, and driven predictive modeling projects that directly improved business performance.
 
-🌐 Links & Contact:
-GitHub: Vishnuvardhan-Venkannagari
-Portfolio: Vsystech Portfolio
-LinkedIn: Vishnuvardhan Venkannagari
-Email: venkannagarivishnureddy@gmail.com
-Phone: 309-222-0106
+I enjoy solving real-world problems with clean code, meaningful data visualizations, and collaborative efforts. My current focus is on developing ML-based insights, automating analytical workflows, and contributing to data-driven decision-making across organizations.
+
+---
+
+## 🔧 Technical Skills
+
+### 🛠️ Data Science & Analytics
+- **Languages:** Python, R, SQL  
+- **ML Tools & Libraries:** Pandas, NumPy, scikit-learn, RapidMiner, statsmodels  
+- **Machine Learning:** Classification, Regression, Clustering, Forecasting (ARIMA, Holt-Winters)
+
+### 📊 Visualization & BI
+- **Tools:** Power BI, Tableau, Google Data Studio, Looker  
+- **Data Storytelling:** KPI dashboards, trend analysis, cohort segmentation
+
+### 🗄️ Data Engineering
+- **ETL & DBs:** MySQL, AWS Redshift, MongoDB, SQLAlchemy  
+- **Pipelines & Automation:** Python scripts, cron jobs, Google Apps Script  
+- **Cloud Platforms:** AWS (Redshift, EC2, S3), Snowflake  
+
+### 📦 Dev Tools & Others
+- **Version Control:** GitHub, Bitbucket  
+- **Environments:** Jupyter, Windows, Ubuntu, MacOS
+
+---
+
+## 🧪 Work Experience
+
+### 🔹 Data Analyst | Tamana Software Pvt. Ltd. (Mar 2021 – Oct 2022)
+- Built cross-functional dashboards (Power BI, Tableau) improving stakeholder decision speed by **30%**
+- Developed ETL pipelines using Python and SQL; reduced data latency by **40%**
+- Applied ML models to predict customer churn and revenue trends, improving model accuracy by **20%**
+- Conducted A/B testing and automated reporting, cutting manual effort by **60%**
+- Mentored junior analysts and led data-driven presentations to C-level execs
+
+---
+
+## 📚 Academic Projects
+
+- **Capstone (City of Peoria):** Used clustering and socio-economic analysis to provide actionable urban planning recommendations
+- **Hospital Management System:** Designed normalized SQL schema with advanced queries and triggers
+- **Breast Cancer Prediction:** Built ML models using RapidMiner with high precision and recall
+- **Adobe Stock Forecasting:** Developed time series models (ARIMA, Holt-Winters) using R
+- **Online Quiz System:** CLI-based Python app with modular design and file-based question handling
+
+---
+
+## 📜 Certifications & Achievements
+
+- **AWS Cloud Practitioner Essentials** (Coursera)  
+- **Machine Learning - Stanford University (Andrew Ng)**  
+- **Python for Data Science, AI & Development (IBM)**  
+- **Databases & SQL for Data Science (IBM)**
+
+---
+
+## 🚀 Let's Connect
+
+- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- **LinkedIn:** [linkedin.com/in/madhav-sai-7951391ba](https://www.linkedin.com/in/madhav-sai-7951391ba)  
+- **Email:** [amadhavsai29@gmail.com](mailto:amadhavsai29@gmail.com)
+
+---
+
+_“Transforming data into insight, and insight into impact.”_
