@@ -1,7 +1,7 @@
 # 👋 Welcome!!, I'm Madhav Sai Avanigadda😃
 
 🎓 Master's Student in Data Science & Business Analytics | 🧠 Data Analyst | 📊 Machine Learning Enthusiast  
-📍 Bradley University, IL | 1.5+ Years of Industry Experience | 📈 AWS Certified | Passionate about turning data into decisions
+📍 Bradley University, IL | 1.5+ Years of Industry Experience | 📈 AWS Certified | Where Data Speaks and Insights Happen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/madhav-sai-avanigadda-7951391ba)
 
