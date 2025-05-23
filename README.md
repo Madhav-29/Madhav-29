@@ -69,10 +69,10 @@ I enjoy solving real-world problems with clean code, meaningful data visualizati
 
 ## 🚀 Let's Connect
 
-- **GitHub:** [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- **GitHub:** [github.com/Madhav-29](https://github.com/Madhav-29)  
 - **LinkedIn:** [linkedin.com/in/madhav-sai-7951391ba](https://www.linkedin.com/in/madhav-sai-7951391ba)  
 - **Email:** [amadhavsai29@gmail.com](mailto:amadhavsai29@gmail.com)
-
+- **Mobile** [+1 309-404-7003]
 ---
 
-_“Transforming data into insight, and insight into impact.”_
+_“Your Data Whisperer: Crafting Insights that Inspire!.”_
