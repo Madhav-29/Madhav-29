@@ -39,7 +39,7 @@ I enjoy solving real-world problems with clean code, meaningful data visualizati
 
 ## 🧪 Work Experience
 
-### 🔹 Data Analyst | Tamana Software Pvt. Ltd. (Mar 2021 – Oct 2022)
+### 🔹 Data Analyst | Tamana Software Pvt. Ltd. (Nov 2020 – Dec 2022)
 - Built cross-functional dashboards (Power BI, Tableau) improving stakeholder decision speed by **30%**
 - Developed ETL pipelines using Python and SQL; reduced data latency by **40%**
 - Applied ML models to predict customer churn and revenue trends, improving model accuracy by **20%**
