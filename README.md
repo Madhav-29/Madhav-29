@@ -9,7 +9,7 @@
 
 ## 💼 About Me
 
-I'm a Data Analyst and graduate student with a strong foundation in data science, business analytics, and machine learning. With 1.5+ years of industry experience at Tamana Software, I’ve built interactive dashboards, optimized ETL pipelines, and driven predictive modeling projects that directly improved business performance.
+I'm a Data Analyst and graduate student with a strong foundation in data science, business analytics, and machine learning. With 2+ years of industry experience at Tamana Software, I’ve built interactive dashboards, optimized ETL pipelines, and driven predictive modeling projects that directly improved business performance.
 
 I enjoy solving real-world problems with clean code, meaningful data visualizations, and collaborative efforts. My current focus is on developing ML-based insights, automating analytical workflows, and contributing to data-driven decision-making across organizations.
 
