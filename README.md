@@ -70,7 +70,7 @@ I enjoy solving real-world problems with clean code, meaningful data visualizati
 ## 🚀 Let's Connect
 
 - **GitHub:** [github.com/Madhav-29](https://github.com/Madhav-29)  
-- **LinkedIn:** [linkedin.com/in/madhav-sai-7951391ba](https://www.linkedin.com/in/madhav-sai-7951391ba)  
+- **LinkedIn:** [linkedin.com/in/madhav-sai-7951391ba](https://linkedin.com/in/madhav-avanigadda)
 - **Email:** [amadhavsai29@gmail.com](mailto:amadhavsai29@gmail.com)
 - **Mobile** [+1 309-404-7003]
 ---
