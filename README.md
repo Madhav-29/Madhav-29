@@ -75,7 +75,7 @@ AWS · GitHub Actions · Vercel
 
 ## 🌐 Connect With Me
 
-* (https://madhav-a.com/)
+* https://madhav-a.com/
 * https://www.linkedin.com/in/madhav-avanigadda/
 
 ---
