@@ -89,7 +89,3 @@ AWS · GitHub Actions · Vercel
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg" />
 </picture>
-
-## ⚡ Alternate Style
-
-<img alt="github contribution snake gif" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake-blue.gif" />
