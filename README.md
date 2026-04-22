@@ -81,10 +81,15 @@ AWS · GitHub Actions · Vercel
 ---
 
 ⭐ *Currently building real-world AI systems — not just tutorials*
+
 ## 🐍 Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg" />
 </picture>
+
+## ⚡ Alternate Style
+
+<img alt="github contribution snake gif" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake-blue.gif" />
