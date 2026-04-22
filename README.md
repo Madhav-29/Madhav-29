@@ -75,8 +75,8 @@ AWS · GitHub Actions · Vercel
 
 ## 🌐 Connect With Me
 
-* Portfolio (coming soon)
-* LinkedIn (add here)
+* [Portfolio (coming soon)](https://madhav-a.com/)
+* https://www.linkedin.com/in/madhav-avanigadda/
 
 ---
 
