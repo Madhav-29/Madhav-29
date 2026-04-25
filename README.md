@@ -49,22 +49,6 @@ Multi-agent system with:
 
 ---
 
-## 🛠️ Tech Stack
-
-**AI/LLM:**
-OpenAI · Gemini · Claude · LangChain · LangGraph · LlamaIndex
-
-**ML/Data:**
-Python · Pandas · scikit-learn · PyTorch
-
-**Backend:**
-FastAPI · Docker · PostgreSQL · Redis
-
-**Infra:**
-AWS · GitHub Actions · Vercel
-
----
-
 ## 📊 What I Care About
 
 * Not just models → **systems that work in production**
