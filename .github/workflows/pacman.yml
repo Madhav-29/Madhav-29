@@ -2,8 +2,11 @@ name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 THIS FIXES THE ERROR
 
 jobs:
   generate:
@@ -17,5 +20,6 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 ADD THIS
           target_branch: output
           build_dir: dist
