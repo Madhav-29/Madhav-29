@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/main/banner.png" />
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=I'M+MADHAV;WELCOME+TO+MY+OTHER+SIDE;AI+%7C+BACKEND+%7C+CLOUD" />
 </p>
 
