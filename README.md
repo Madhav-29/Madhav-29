@@ -1,111 +1,64 @@
-# 👋 Hey, I'm Madhav
-
-🚀 **AI/ML Engineer building production-grade LLM systems, agents, and data pipelines**
-
----
-
-## 🧠 What I Do
-
-* Build **AI agents (multi-step, tool-using systems)**
-* Design **RAG pipelines with evaluation + retrieval optimization**
-* Develop **data pipelines for ML & real-time systems**
-* Focus on **latency, reliability, and real-world deployment**
-
----
-
-## ⚡ Current Focus
-
-* Agent-to-agent systems (multi-agent workflows)
-* RAG + hybrid retrieval + reranking
-* LLM evaluation & guardrails
-* FastAPI + Docker deployment for AI systems
-
----
-
-## 🧩 Featured Projects
-
-### 🔹 AI Agent Framework (WIP)
-
-Multi-agent system with:
-
-* tool calling
-* memory
-* retries & fallback logic
-* observability
-
-### 🔹 RAG System with Evaluation
-
-* hybrid search (dense + keyword)
-* reranking
-* hallucination detection
-* evaluation benchmarks
-
-### 🔹 Real-Time ML Pipeline
-
-* streaming ingestion
-* feature transformation
-* model serving
-* monitoring
-
----
-
-## 📊 What I Care About
-
-* Not just models → **systems that work in production**
-* Not just accuracy → **latency + cost + reliability**
-* Not just demos → **end-to-end pipelines**
-
----
-
-## 🌐 Connect With Me
-
-* https://madhav-a.com/
-* https://www.linkedin.com/in/madhav-avanigadda/
-
----
-
-⭐ *Currently building real-world AI systems — not just tutorials*
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Madhav;Welcome+to+my+other+side...;Building+AI+%2F+Backend+Systems;Exploring+LLMs+%26+RAG" />
 </p>
 
-### AI / ML / Data
+---
+
+```bash
+> initializing madhav.exe...
+> loading modules ██████████ 100%
+> AI systems ready ✔
+> backend engines ready ✔
+> welcome to my other side.
+```
+
+---
+
+## 🚀 About Me
+
+* 🧠 Building with **AI/ML & LLMs**
+* 🔍 Working on **RAG-based systems**
+* ⚙️ Backend development & APIs
+* ☁️ Exploring scalable cloud systems
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### Backend / Cloud / Tools
+### 🤖 AI / ML
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,docker,aws,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-<br/>
+* LLMs
+* RAG Pipelines
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Python+%7C+Deep+Learning+%7C+Computer+Vision;Backend+%7C+Cloud+%7C+MLOps;Always+Learning+%E2%9A%A1" />
+---
 
-</div>
+### ⚙️ Backend & Cloud
 
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws" />
+</p>
 
-<div align="center">
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🛠 Tools
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+</p>
 
+---
 
-## 🟡 Pacman Contribution Graph
+## 🟡 Contribution Activity
 
 <p align="center">
   <picture>
@@ -114,3 +67,25 @@ Multi-agent system with:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-29&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Madhav-29">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *Always building. Always evolving.*
