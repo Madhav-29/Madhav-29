@@ -38,17 +38,34 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
+---
+
 ### ⚙️ Backend & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws,azure,gcp" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/AWS-Bedrock-FF8C00?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-OpenAI-FF8C00?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
 ### 🗄 Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Vector_DB-FAISS-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-Pinecone-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_DB-Chroma-FF8C00?style=for-the-badge" />
+</p>
+
+---
 
 ### 🤖 AI / LLM Stack
 
@@ -58,11 +75,31 @@
   <img src="https://img.shields.io/badge/Gemini-Google-FF8C00?style=for-the-badge&logo=google" />
 </p>
 
-* RAG (Retrieval-Augmented Generation)
-* Vector Databases (FAISS • Pinecone • Chroma)
-* Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/GenAI-Systems-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic-AI-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Pipelines-FF8C00?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Prompt-Engineering-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CoT-Reasoning-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ReAct-Agents-FF8C00?style=for-the-badge" />
+</p>
 
 ---
+
+### 📊 ML / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine-Learning-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-Studio-FF8C00?style=for-the-badge" />
+</p>
+
 
 ## 🟡 Contribution Activity
 
