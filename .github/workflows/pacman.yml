@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # 🔥 REQUIRED
+  contents: write
 
 jobs:
   generate:
@@ -19,7 +19,8 @@ jobs:
 
       - name: Push Pacman
         uses: crazy-max/ghaction-github-pages@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ✅ correct way
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 REQUIRED
           target_branch: output
           build_dir: dist
