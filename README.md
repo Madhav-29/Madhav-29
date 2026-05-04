@@ -1,56 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Madhav;Welcome+to+my+other+side...;Building+AI+%2F+Backend+Systems;Exploring+LLMs+%26+RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&pause=1000&color=FF8C00&center=true&vCenter=true&width=800&lines=I'M+MADHAV;WELCOME+TO+MY+OTHER+SIDE;AI+%7C+BACKEND+%7C+CLOUD" />
+</p>
+
+<p align="center">
+  <b style="color:#FF8C00;">⚡ Building intelligent systems with AI, Backend & Cloud ⚡</b>
 </p>
 
 ---
 
 ```bash
-> initializing madhav.exe...
-> loading systems...
-> AI modules ready ✔
-> backend systems ready ✔
-> vector pipelines ready ✔
-> welcome.
+> booting madhav.system...
+> initializing AI core ██████████ 100%
+> loading cloud modules...
+> backend services ready ✔
+> welcome to the other side.
 ```
 
 ---
 
 ## 🚀 About Me
 
-* 🧠 Building with **AI/ML, LLMs & RAG**
-* 🔍 Designing **retrieval + reasoning systems**
-* ⚙️ Backend development & scalable APIs
-* ☁️ Exploring **cloud-native architectures**
+* 🧠 Building **LLM-powered systems & RAG pipelines**
+* ⚙️ Designing **scalable backend architectures**
+* ☁️ Working across **multi-cloud environments**
+* 🔍 Focused on **AI + Systems Engineering**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
+</p>
 
-Python • Java • JavaScript
+### 🤖 AI / LLM Ecosystem
 
-### 🤖 AI / ML
-
-Machine Learning • Deep Learning
-LLMs • Prompt Engineering
-RAG (Retrieval-Augmented Generation)
-
-### 🗄 Databases
-
-SQL (PostgreSQL / MySQL)
-Vector DBs (FAISS • Pinecone • Chroma)
-
-### ⚙️ Backend & Cloud
-
-Node.js • Express
-REST APIs • Microservices
-Docker • AWS
-
-### 🛠 Tools
-
-Git • GitHub
-Postman • Linux
+* OpenAI (GPT)
+* Anthropic Claude
+* RAG Pipelines
+* Vector Databases (FAISS • Pinecone • Chroma)
+* Prompt Engineering
 
 ---
 
@@ -95,8 +86,10 @@ Postman • Linux
 * LLM Applications
 * RAG Architectures
 * Backend System Design
-* Scalable AI Pipelines
+* Cloud-native Systems
 
 ---
 
-⭐ *Always building. Always evolving.*
+<p align="center">
+  <b style="color:#FF8C00;">⚡ Always building. Always evolving. ⚡</b>
+</p>
