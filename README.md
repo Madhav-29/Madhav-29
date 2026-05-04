@@ -104,6 +104,13 @@ Multi-agent system with:
 
 </div>
 
-## Contributions
 
-![Pacman](https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman.svg)
+## 🟡 Pacman Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
