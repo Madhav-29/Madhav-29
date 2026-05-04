@@ -1,25 +1,26 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Madhav;Welcome+to+my+other+side...;Building+AI+%2F+Backend+Systems;Exploring+LLMs+%26+RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=700&lines=Hey+I'm+Madhav;Welcome+to+my+other+side...;Building+AI+%2F+Backend+Systems;Exploring+LLMs+%26+RAG" />
 </p>
 
 ---
 
 ```bash
 > initializing madhav.exe...
-> loading modules ██████████ 100%
-> AI systems ready ✔
-> backend engines ready ✔
-> welcome to my other side.
+> loading systems...
+> AI modules ready ✔
+> backend systems ready ✔
+> vector pipelines ready ✔
+> welcome.
 ```
 
 ---
 
 ## 🚀 About Me
 
-* 🧠 Building with **AI/ML & LLMs**
-* 🔍 Working on **RAG-based systems**
-* ⚙️ Backend development & APIs
-* ☁️ Exploring scalable cloud systems
+* 🧠 Building with **AI/ML, LLMs & RAG**
+* 🔍 Designing **retrieval + reasoning systems**
+* ⚙️ Backend development & scalable APIs
+* ☁️ Exploring **cloud-native architectures**
 
 ---
 
@@ -27,34 +28,29 @@
 
 ### 👨‍💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
+Python • Java • JavaScript
 
 ### 🤖 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+Machine Learning • Deep Learning
+LLMs • Prompt Engineering
+RAG (Retrieval-Augmented Generation)
 
-* LLMs
-* RAG Pipelines
+### 🗄 Databases
 
----
+SQL (PostgreSQL / MySQL)
+Vector DBs (FAISS • Pinecone • Chroma)
 
 ### ⚙️ Backend & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws" />
-</p>
-
----
+Node.js • Express
+REST APIs • Microservices
+Docker • AWS
 
 ### 🛠 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
-</p>
+Git • GitHub
+Postman • Linux
 
 ---
 
@@ -73,18 +69,33 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-29&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Madhav-29">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Madhav-29/<repo1>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo1>&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Madhav-29/<repo2>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo2>&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Madhav-29/<repo3>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo3>&theme=transparent&hide_border=true" />
   </a>
 </p>
+
+---
+
+## 🔥 Focus Areas
+
+* LLM Applications
+* RAG Architectures
+* Backend System Design
+* Scalable AI Pipelines
 
 ---
 
