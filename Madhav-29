@@ -5,16 +5,21 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # 🔥 REQUIRED
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: Madhav-29
 
       - name: Push Pacman
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 REQUIRED
           target_branch: output
           build_dir: dist
