@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b style="color:#FF8C00;">⚡ Building intelligent systems with AI, Backend & Cloud ⚡</b>
+  <b>⚡ Building intelligent systems with AI, Backend & Cloud ⚡</b>
 </p>
 
 ---
@@ -29,17 +29,33 @@
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" /><br/>
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
 </p>
 
-### 🤖 AI / LLM Ecosystem
+### ⚙️ Backend & Cloud
 
-* OpenAI (GPT)
-* Anthropic Claude
-* RAG Pipelines
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,aws,azure,gcp" />
+</p>
+
+### 🗄 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🤖 AI / LLM Stack
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-GPT-FF8C00?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-Anthropic-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-Google-FF8C00?style=for-the-badge&logo=google" />
+</p>
+
+* RAG (Retrieval-Augmented Generation)
 * Vector Databases (FAISS • Pinecone • Chroma)
 * Prompt Engineering
 
@@ -57,39 +73,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav-29&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Madhav-29/<repo1>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo1>&theme=transparent&hide_border=true" />
+  <a href="https://github.com/Madhav-29">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Madhav-29/<repo2>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo2>&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Madhav-29/<repo3>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Madhav-29&repo=<repo3>&theme=transparent&hide_border=true" />
+  <a href="https://www.linkedin.com/in/madhav-avanigadda/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🔥 Focus Areas
-
-* LLM Applications
-* RAG Architectures
-* Backend System Design
-* Cloud-native Systems
-
----
-
 <p align="center">
-  <b style="color:#FF8C00;">⚡ Always building. Always evolving. ⚡</b>
+  ⚡ <b>Always building. Always evolving.</b> ⚡
 </p>
