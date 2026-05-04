@@ -104,10 +104,6 @@ Multi-agent system with:
 
 </div>
 
-## 🐍 Contributions
+## Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/github-snake.svg">
-</picture>
+![Pacman](https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman.svg)
