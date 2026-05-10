@@ -83,13 +83,6 @@ predictive ML & anomaly detection.
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://readme-marquee.vercel.app/api?text=AI%20Agents%20•%20LLMs%20•%20RAG%20Pipelines%20•%20MLOps%20•%20Cloud%20Architecture%20•%20Real-Time%20Systems%20•%20Interactive%20Dashboards%20•%20Generative%20AI%20•&font=JetBrains+Mono&speed=40&pause=1000&width=1000"/>
-
-</div>
 
 ---
 
@@ -195,10 +188,6 @@ predictive ML & anomaly detection.
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg" width="100%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-29&bg_color=ffffff&color=ff6b00&line=ff6b00&point=1a1a1a&area=true&hide_border=true" width="100%"/>
 
 </div>
 
