@@ -1,174 +1,162 @@
-````md
-<p align="center">
-  ```md
-<img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/main/banner.png" width="100%" />
-```
+# <div align="center">Hi there 👋 I'm Madhav</div>
 
-</p>
+<div align="center">
 
-<h1 align="center">Hey 👋 This is Madhav</h1>
+<img src="https://github.com/Madhav-29/Madhav-29/blob/main/banner.png" />
 
-<p align="center">
-  Welcome to my other side ⚡
-</p>
+<br/>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=700&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Building+Autonomous+AI+Systems;LLMs+%7C+RAG+Pipelines+%7C+MCP;LangChain+%7C+LangGraph+%7C+CrewAI;Engineering+Agentic+Workflows;Full+Stack+AI+Builder+⚡;Turning+Ideas+Into+Intelligent+Products" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Techie+⚡;AI+Enthusiast+⚡;Full+Stack+Developer+⚡;Open+Source+Contributor+⚡;Building+Cool+Stuff+🚀" />
+
+</div>
 
 ---
 
-```bash
-> booting madhav.exe
+<div align="center">
 
-✓ Initializing AI agents...
-✓ Loading RAG pipelines...
-✓ Connecting MCP servers...
-✓ Starting autonomous workflows...
-✓ Syncing vector memory...
-✓ Launching multi-agent systems...
+### ⚡ Techie • AI Enthusiast • Open Source Builder ⚡
 
-system status: ONLINE ⚡
-````
+</div>
 
----
+<br/>
 
-# ⚡ About
+<div align="center">
 
-* 🤖 Building AI-native systems & autonomous agents
-* 🧠 Engineering LLM + RAG architectures
-* ⚙️ Designing scalable multi-agent workflows
-* ☁️ Exploring MCP, orchestration & AI infra
-* 🌐 Full Stack AI Product Builder
-* 🚀 Turning ideas into intelligent products
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,aws,firebase,tailwind,figma,git,github,linux,vscode&perline=9" />
 
----
+</div>
 
-# 🚀 Featured Projects
+<br/>
 
-### 🧠 AI Agent Systems
+<div align="center">
 
-Autonomous multi-agent workflows powered by LLM reasoning, memory, and tool execution.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:9333ea&height=120&section=header"/>
 
-### 🔗 Enterprise RAG Pipelines
+</div>
 
-High-performance retrieval systems with vector search, semantic retrieval, and context orchestration.
+# 🚀 Favorite Tools & Technologies
 
-### ⚙️ MCP Tool Servers
+<div align="center">
 
-Model Context Protocol servers enabling intelligent tool-augmented agents.
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+<br>React
+</td>
 
-### 🌐 Full Stack AI Apps
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
+<br>NextJS
+</td>
 
-Production-ready AI applications with real-time interfaces and scalable backend systems.
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
 
-### 🤖 Agentic Workflow Engines
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
+</td>
 
-LangGraph/CrewAI-powered orchestration systems for autonomous execution pipelines.
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
+<br>NodeJS
+</td>
+</tr>
 
----
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
 
-# ⚔️ Tech Stack
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
 
-## 🤖 AI / Agentic Stack
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
 
-<p align="left">
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CrewAI-EF4444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AntiGravity-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Agents-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/vLLM-DC2626?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
 
-</p>
+</div>
 
----
+<br/>
 
-## 🌐 Full Stack
+<div align="center">
 
-<p align="left">
+<img src="https://readme-marquee.vercel.app/api?text=AI%20•%20Automation%20•%20Web%20Development%20•%20Open%20Source%20•%20Modern%20UI/UX%20•%20Interactive%20Experiences%20•%20Tech%20Explorer%20•%20Innovation%20•%20&font=Fira%20Code&speed=40&pause=1000&width=1000"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgresql,firebase" />
-
-</p>
-
----
-
-## ☁️ Infra & DevOps
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,github,git,bash" />
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge" />
-
-</p>
+</div>
 
 ---
 
-# 🧠 Working With
+# 🌌 Currently Exploring
 
-* Autonomous Agents
-* Multi-Agent Systems
-* AI Memory Architectures
-* Context Engineering
-* AI Workflow Automation
-* Tool Calling Systems
-* AI-native Infrastructure
-* LLM Evaluation Pipelines
-* Retrieval-Augmented Generation
-* Distributed AI Systems
+<div align="center">
 
----
+⚡ AI & LLM Applications
+⚡ Full Stack Development
+⚡ Modern UI/UX Experiences
+⚡ Automation & Workflows
+⚡ Open Source Contributions
+⚡ Scalable Backend Systems
 
-# 👾 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
 ---
 
-# 🧠 Vision
+# 🎮 Pacman Contribution Graph
 
-Building systems for the AI-native era —
-where software can reason, retrieve, plan, and act autonomously.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph-dark.svg" />
+
+</div>
 
 ---
 
-# 🌐 Connect
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Madhav-29" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<div align="center">
+
+<a href="https://github.com/Madhav-29">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:amadhav1929@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-</p>
 
----
+<a href="https://twitter.com/">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhav-29&color=blueviolet&style=for-the-badge" />
-</p>
+</div>
 
-<p align="center">
-  ⚡ Engineering intelligent systems for the next era of software
-</p>
-```
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:06b6d4,100:0f172a&height=120&section=footer"/>
+
+</div>
