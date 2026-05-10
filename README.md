@@ -1,121 +1,181 @@
-# <div align="center">Hi there 👋 I'm Madhav</div>
-
 <div align="center">
 
-<img src="https://github.com/Madhav-29/Madhav-29/blob/main/banner.png" />
+# Hi there 👋
+
+<img src="https://github.com/Madhav-29/Madhav-29/blob/main/banner.png" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Techie+⚡;AI+Enthusiast+⚡;Full+Stack+Developer+⚡;Open+Source+Contributor+⚡;Building+Cool+Stuff+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&lines=Madhav;AI+Engineer;Tech+Explorer;Full+Stack+Developer;Open+Source+Contributor;Building+Interactive+Experiences" />
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 About Me
 
-### ⚡ Techie • AI Enthusiast • Open Source Builder ⚡
+```yaml
+Name: Madhav
+Role: AI Engineer & Full Stack Developer
 
-</div>
+Currently:
+  - Building AI-powered applications
+  - Exploring LLMs & RAG systems
+  - Creating interactive user experiences
+  - Working on scalable backend architectures
+  - Contributing to open source
+
+Interests:
+  - AI Agents
+  - Automation
+  - Modern Web Technologies
+  - Developer Tools
+  - Cloud & Infrastructure
+```
 
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,mongodb,postgres,docker,aws,firebase,tailwind,figma,git,github,linux,vscode&perline=9" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjF2OW0xdDBvM2x5Y2Q5aWh4dDExZDJuNmF6MGVlNWhqMXF2NnhwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="180"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBvOWo2cnJwZm9kOWRxaXk5aTVtYjJhM2p2Z2I0a3JqZ2o0aHF4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2t3d3A5cG9rMG5jY3A1cTZ0eW5mM3V1NnJ1M2Q4dW95d2Q3Z3g5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif" width="180"/>
 
 </div>
 
-<br/>
+---
+
+# ⚡ Tech Stack
+
+## 💻 Programming Languages
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:06b6d4,100:9333ea&height=120&section=header"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java" />
 
 </div>
 
-# 🚀 Favorite Tools & Technologies
+---
+
+## 🌐 Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" />
+
+</div>
+
+---
+
+## ⚙️ Backend & APIs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,redis" />
+
+</div>
+
+---
+
+## 🤖 AI / LLM Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RAG-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
+
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Pinecone-black?style=for-the-badge" />
+
+</div>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,firebase,vercel,linux,githubactions" />
+
+</div>
+
+---
+
+## 📊 Monitoring & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana" />
+
+<img src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus" />
+
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman" />
+
+<img src="https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=jupyter" />
+
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+
+</div>
+
+---
+
+# 🚀 Currently Exploring
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br>React
+<td align="center">
+
+🧠 AI Agents
+
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
-<br>NextJS
+<td align="center">
+
+⚡ RAG Pipelines
+
 </td>
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
+<td align="center">
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br>Python
-</td>
+🌐 Full Stack Systems
 
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
-<br>NodeJS
 </td>
 </tr>
 
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br>Docker
+<td align="center">
+
+☁️ Cloud Infrastructure
+
 </td>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
+<td align="center">
+
+📡 Real-time Architectures
+
 </td>
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
+<td align="center">
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
+🔍 Observability & Monitoring
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-marquee.vercel.app/api?text=AI%20•%20Automation%20•%20Web%20Development%20•%20Open%20Source%20•%20Modern%20UI/UX%20•%20Interactive%20Experiences%20•%20Tech%20Explorer%20•%20Innovation%20•%20&font=Fira%20Code&speed=40&pause=1000&width=1000"/>
-
-</div>
-
----
-
-# 🌌 Currently Exploring
-
-<div align="center">
-
-⚡ AI & LLM Applications
-⚡ Full Stack Development
-⚡ Modern UI/UX Experiences
-⚡ Automation & Workflows
-⚡ Open Source Contributions
-⚡ Scalable Backend Systems
 
 </div>
 
@@ -125,30 +185,32 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph-dark.svg" />
+<img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph-dark.svg" width="95%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-29&bg_color=0d1117&color=ffffff&line=58a6ff&point=fafafa&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Madhav-29">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+    
 
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://twitter.com/">
-<img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
@@ -157,6 +219,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,50:06b6d4,100:0f172a&height=120&section=footer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=4000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Always+learning+new+things+⚡;Exploring+AI+and+modern+tech+🚀;Building+cool+stuff+everyday+✨" />
 
 </div>
