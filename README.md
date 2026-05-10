@@ -1,6 +1,6 @@
 ````md
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" width="100%" />
+  <img src="https://github.com/Madhav-29/Madhav-29/blob/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋 This is Madhav</h1>
