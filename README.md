@@ -34,6 +34,65 @@
 
 ---
 
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-FF6B00?style=for-the-badge&logo=openai&logoColor=white"/>
+
+### 🤖 Multi-Agent AI System
+
+Autonomous AI workflows powered by
+LLMs, LangGraph & RAG pipelines.
+
+`GPT-4` `LangChain` `LangGraph` `Pinecone`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/Clinical%20AI%20Platform-1A1A1A?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+### 🏥 Clinical AI Platform
+
+AI-powered healthcare assistant for
+clinical insights & intelligent automation.
+
+`FastAPI` `Vertex AI` `Azure OpenAI`
+
+</td>
+
+<td width="33%" align="center">
+
+<img src="https://img.shields.io/badge/Fraud%20Detection-FF6B00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+### 🔍 ML Fraud Detection System
+
+Real-time fraud detection using
+predictive ML & anomaly detection.
+
+`PyTorch` `Kafka` `scikit-learn`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-marquee.vercel.app/api?text=AI%20Agents%20•%20LLMs%20•%20RAG%20Pipelines%20•%20MLOps%20•%20Cloud%20Architecture%20•%20Real-Time%20Systems%20•%20Interactive%20Dashboards%20•%20Generative%20AI%20•&font=JetBrains+Mono&speed=40&pause=1000&width=1000"/>
+
+</div>
+
+---
+
 # ⚡ Tech Stack
 
 ## 💻 Programming & Software Engineering
