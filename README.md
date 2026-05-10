@@ -189,10 +189,6 @@ predictive ML & anomaly detection.
 
 <img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg" width="100%" />
 
-<br/><br/>
-
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Madhav-29&bg_color=ffffff&color=ff6b00&line=ff6b00&point=1a1a1a&area=true&hide_border=true&radius=12](https://github-readme-activity-graph.vercel.app/graph?username=Madhav-29&bg_color=ffffff&color=ff6b00&line=ff6b00&point=1a1a1a&area=true&hide_border=true&radius=12)" width="100%"/>
-
 </div>
 ---
 
