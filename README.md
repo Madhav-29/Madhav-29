@@ -1,6 +1,9 @@
 ````md
 <p align="center">
-  <img src="https://github.com/Madhav-29/Madhav-29/blob/main/banner.png" width="100%" />
+  ```md
+<img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/main/banner.png" width="100%" />
+```
+
 </p>
 
 <h1 align="center">Hey 👋 This is Madhav</h1>
