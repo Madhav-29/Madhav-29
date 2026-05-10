@@ -16,7 +16,7 @@
 
 # 🧠 About
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=444444&center=true&vCenter=true&multiline=true&width=850&height=110&lines=%3E+Initializing+AI+Workflows...;%3E+Exploring+LLMs+%26+RAG+Systems...;%3E+Building+Scalable+Backend+Architectures...;%3E+Designing+Interactive+Experiences..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=444444&center=true&vCenter=true&multiline=true&width=920&height=120&lines=%3E+Initializing+AI+Agents...;%3E+Building+LLM+%26+RAG+Workflows...;%3E+Designing+Scalable+Backend+Architectures...;%3E+Crafting+Interactive+User+Experiences...;%3E+Exploring+Modern+AI+Systems..." />
 
 </div>
 
@@ -44,10 +44,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PySpark-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scalable%20Systems-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PySpark-FF6B00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/OOP-1A1A1A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Scalable%20Systems-1A1A1A?style=for-the-badge&logoColor=white" />
 
 </div>
 
@@ -61,10 +61,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Microservices-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Event%20Driven-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Event%20Driven-1A1A1A?style=for-the-badge" />
 
 </div>
 
@@ -74,24 +74,24 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GPT--4-111111?style=for-the-badge&logo=openai" />
-<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=google" />
-<img src="https://img.shields.io/badge/Vertex%20AI-111111?style=for-the-badge&logo=googlecloud" />
+<img src="https://img.shields.io/badge/GPT--4-FF6B00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Gemini-FF6B00?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI-1A1A1A?style=for-the-badge&logo=googlecloud" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LlamaIndex-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF6B00?style=for-the-badge" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Pinecone-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAISS-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Semantic%20Search-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Search-1A1A1A?style=for-the-badge" />
 
 </div>
 
@@ -105,10 +105,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/XGBoost-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Predictive%20Models-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical%20Analysis-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XGBoost-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Predictive%20Models-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistical%20Analysis-1A1A1A?style=for-the-badge" />
 
 </div>
 
@@ -122,10 +122,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/MLflow-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model%20Monitoring-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Drift%20Detection-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MLflow-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI/CD-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Monitoring-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Drift%20Detection-1A1A1A?style=for-the-badge" />
 
 </div>
 
@@ -137,6 +137,10 @@
 
 <img src="https://raw.githubusercontent.com/Madhav-29/Madhav-29/output/pacman-contribution-graph.svg" width="100%" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhav-29&bg_color=ffffff&color=ff6b00&line=ff6b00&point=1a1a1a&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
@@ -146,13 +150,10 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="36"/>
 </a>
-
-  
-
 <a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="38"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="36"/>
 </a>
 
 </div>
