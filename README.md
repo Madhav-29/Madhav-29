@@ -4,7 +4,173 @@
 <h1 align="center">Hey 👋 This is Madhav</h1>
 
 <p align="center">
-  <b>Welcome to my other side ⚡</b>
+  <b>Welcome to my other side ⚡</b># 🚀 Reframed Elite GitHub README
+
+````md
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" />
+</p>
+
+<h1 align="center">Hey 👋 This is Madhav</h1>
+
+<p align="center">
+  Welcome to my other side ⚡
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Madhav+Loading.....+⚡;Building+AI+Agents+for+the+Next+Era;LLMs+%7C+RAG+Pipelines+%7C+AI+Infrastructure;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+AutoGen;MCP+%7C+Autonomous+Workflows+%7C+Agentic+Systems;Turning+Ideas+Into+Intelligent+Products+🚀" />
+</p>
+
+<p align="center">
+
+```json
+{
+  "name": "Madhav",
+  "role": "AI Systems Engineer",
+  "building": [
+    "AI Agents",
+    "RAG Pipelines",
+    "MCP Servers",
+    "Autonomous Systems"
+  ],
+  "stack": [
+    "LangChain",
+    "LangGraph",
+    "CrewAI",
+    "AutoGen",
+    "Cursor",
+    "AntiGravity"
+  ],
+  "status": "shipping intelligence into production"
+}
+````
+
+</p>
+
+---
+
+# ⚡ About Me
+
+I build AI-native systems that combine:
+
+* 🧠 LLMs
+* 🔗 RAG Pipelines
+* 🤖 Autonomous AI Agents
+* ⚙️ Multi-Agent Workflows
+* ☁️ AI Infrastructure
+* 🌐 Full Stack Applications
+
+Focused on engineering systems where models can:
+
+* reason
+* retrieve
+* plan
+* collaborate
+* execute
+* remember
+
+Building production-grade intelligent systems for the next era of software.
+
+---
+
+# 🧠 Current Focus
+
+```yaml
+building:
+  - Agentic AI Systems
+  - Enterprise RAG Pipelines
+  - MCP Tool Servers
+  - Multi-Agent Architectures
+  - AI Workflow Automation
+  - Full Stack AI Products
+
+exploring:
+  - Long-Term Agent Memory
+  - Autonomous Software Systems
+  - Context Engineering
+  - Distributed AI Workflows
+```
+
+---
+
+# ⚔️ Tech Stack
+
+## 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+---
+
+## 🤖 AI / Agentic Stack
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-EF4444?style=for-the-badge)
+![AutoGen](https://img.shields.io/badge/AutoGen-2563EB?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![AntiGravity](https://img.shields.io/badge/AntiGravity-7C3AED?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge)
+![vLLM](https://img.shields.io/badge/vLLM-DC2626?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-EC4899?style=for-the-badge)
+
+---
+
+## 🌐 Full Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+---
+
+## ☁️ Infra & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-AI-000000?style=for-the-badge)
+
+---
+
+# 👾 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="pacman contribution graph" />
+</p>
+
+---
+
+# 🏆 Vision
+
+The future of software is:
+
+* autonomous
+* context-aware
+* agent-driven
+* multimodal
+* continuously learning
+
+I
+
 </p>
 
 <p align="center">
