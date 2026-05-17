@@ -88,43 +88,13 @@ predictive ML & anomaly detection.
 
 # ⚡ Tech Stack
 
-## 💻 Programming & Software Engineering
+## 🤖 AI Engineering • Agents • RAG
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=python" />
 
 <br/><br/>
-
-<img src="https://img.shields.io/badge/PySpark-FF6B00?style=for-the-badge&logo=apache-spark&logoColor=white" />
-<img src="https://img.shields.io/badge/OOP-1A1A1A?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-FF6B00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Scalable%20Systems-1A1A1A?style=for-the-badge&logoColor=white" />
-
-</div>
-
----
-
-## ⚙️ Backend & APIs
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker,redis" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REST%20APIs-1A1A1A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System%20Design-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Event%20Driven-1A1A1A?style=for-the-badge" />
-
-</div>
-
----
-
-## 🤖 AI • Agents • RAG
-
-<div align="center">
 
 <img src="https://img.shields.io/badge/GPT--4-FF6B00?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-1A1A1A?style=for-the-badge" />
@@ -136,20 +106,43 @@ predictive ML & anomaly detection.
 <img src="https://img.shields.io/badge/LangChain-FF6B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LlamaIndex-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AutoGen-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-FF6B00?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/RAG%20Pipelines-1A1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Agentic%20AI-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic%20Search-FF6B00?style=for-the-badge" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Pinecone-1A1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Semantic%20Search-1A1A1A?style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧠 Machine Learning
+## ⚙️ Backend • APIs • Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,redis,postgres,mysql" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20APIs-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Event%20Driven%20Systems-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Design-1A1A1A?style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧠 Machine Learning • Data Engineering
 
 <div align="center">
 
@@ -159,14 +152,20 @@ predictive ML & anomaly detection.
 
 <img src="https://img.shields.io/badge/scikit--learn-FF6B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-1A1A1A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Predictive%20Models-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Statistical%20Analysis-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PySpark-FF6B00?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-1A1A1A?style=for-the-badge&logo=apachekafka" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Real--Time%20ML-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Streaming%20Pipelines-FF6B00?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ☁️ Cloud • DevOps • MLOps
+## ☁️ Cloud • MLOps • Infrastructure
 
 <div align="center">
 
@@ -174,12 +173,19 @@ predictive ML & anomaly detection.
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Azure%20OpenAI-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AKS%20%7C%20EKS%20%7C%20GKE-1A1A1A?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MLflow-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CI/CD-1A1A1A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model%20Monitoring-FF6B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Drift%20Detection-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Terraform-1A1A1A?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Monitoring-1A1A1A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Observability-FF6B00?style=for-the-badge" />
 
 </div>
+
 
 ---
 
