@@ -34,6 +34,20 @@
 
 ---
 
+# 🧩 GenAI System Architecture
+
+<div align="center">
+
+<img src="./genai-pipeline.png" width="100%" alt="GenAI Pipeline Architecture"/>
+
+<br/>
+
+<i>Production-grade GenAI architecture for scalable RAG, agent orchestration, evaluation, and deployment workflows.</i>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
