@@ -32,19 +32,27 @@
 
 </div>
 
+
 ---
 
 # 🧩 GenAI System Architecture
 
 <div align="center">
 
-<img src="./genai-pipeline.png" width="100%" alt="GenAI Pipeline Architecture"/>
+<img 
+src="https://github.com/Madhav-29/Madhav-29/blob/main/Pipeline.jpg" 
+width="90%" 
+alt="GenAI Pipeline Architecture" />
 
-<br/>
+<br/><br/>
 
-<i>Production-grade GenAI architecture for scalable RAG, agent orchestration, evaluation, and deployment workflows.</i>
+<i>
+Production-grade GenAI architecture for scalable RAG pipelines, 
+agent orchestration, evaluation frameworks, and enterprise AI deployment.
+</i>
 
 </div>
+
 
 ---
 
