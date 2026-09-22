@@ -62,7 +62,7 @@ agent orchestration, evaluation frameworks, and enterprise AI deployment.
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="34%" align="center">
 
 <img src="https://img.shields.io/badge/AI%20Agents-FF6B00?style=for-the-badge&logo=openai&logoColor=white"/>
 
